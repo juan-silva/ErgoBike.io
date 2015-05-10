@@ -1,0 +1,7 @@
+c:\documents and settings\fmalric\my documents\visual studio 2010\Projects\BikeReaderWriter\BikeReaderWriter\bin\Debug\BikeReaderWriter.exe
+c:\documents and settings\fmalric\my documents\visual studio 2010\Projects\BikeReaderWriter\BikeReaderWriter\bin\Debug\BikeReaderWriter.pdb
+c:\documents and settings\fmalric\my documents\visual studio 2010\Projects\BikeReaderWriter\BikeReaderWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\fmalric\my documents\visual studio 2010\Projects\BikeReaderWriter\BikeReaderWriter\obj\x86\Debug\BikeReaderWriter.exe
+c:\documents and settings\fmalric\my documents\visual studio 2010\Projects\BikeReaderWriter\BikeReaderWriter\obj\x86\Debug\BikeReaderWriter.pdb
+E:\Personal\BikeReaderWriter\BikeReaderWriter\obj\x86\Debug\BikeReaderWriter.exe
+E:\Personal\BikeReaderWriter\BikeReaderWriter\obj\x86\Debug\BikeReaderWriter.pdb
