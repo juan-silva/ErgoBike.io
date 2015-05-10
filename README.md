@@ -12,3 +12,7 @@ About the code:
 This is a Visual Studio solution that runs as a console application. It establishes communication with the ergo bike connected to the PC through a serial port (COM). The bike uses a very specific communication protocol based on writing/reading a series of bytes in certain sequence.
 
 The code runs in a loop setting the watts value (bike ergo resistance) and reading values from the cockpit (Watts, RPM, Seep, Heart Rate, and Gear). 
+
+This C# version was written based on a Java project by JErgoTrainer.de
+http://jergotrainer.sourceforge.net/
+http://sourceforge.net/projects/jergotrainer/
